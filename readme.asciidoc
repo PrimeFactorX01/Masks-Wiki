@@ -1,0 +1,5 @@
+= Masks Wiki
+
+This is a Repo for game notes.
+Most of it will be found in the wiki section.
+The standard Repo will be used for GM notes
